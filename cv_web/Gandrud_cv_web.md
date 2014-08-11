@@ -114,9 +114,9 @@ ______________________________________________________________________
 
 ### Work in Progress
 
-- Building Better Bad Banks. With Mark Hallerberg.
+- On Whose Account? Financial Crises, Elections, and the Rules of the Game. Book project with Mark Hallerberg.
+- The Financial Regulatory Transparency Index. With Mark Copelovich and Mark Hallerberg.
 - Triggering Macroeconomic Policy. With Jeffrey Chwieroth.
-- Letting Banks Fail: Federalism and decisions to close troubled banking institutions. With Mark Hallerberg.
 - The Rusty Plumbing of Financial Globalization: The Political Economy of National Payment System Reforms. With Stefano Pagliari, Irene Spagna, and Kevin Young.
 - Strategic Choices to Use Parliamentary Brawls. With Emily Beaulieu.
 - Partisan Biases in Voters' Economic Forecasts. With Cassandra Grafstrom.
