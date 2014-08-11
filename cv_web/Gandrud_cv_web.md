@@ -17,7 +17,7 @@ ______________________________________________________________________
 
 ##### Post-Doctoral Researcher 
 
-I am co-authoring with Prof. Mark Hallerberg a project examining the political economy responses to financial crisis. The project is funded by the *Deutsche Forschungsgemeinschaft*.
+I am co-authoring with Prof. Mark Hallerberg a project examining the political economy responses to financial crises. The project is funded by the *Deutsche Forschungsgemeinschaft*.
 
 I am also designing and teaching a new graduate-level course on collaborative data science.
 
@@ -126,7 +126,7 @@ ______________________________________________________________________
 
 - [simPH](http://christophergandrud.github.com/simPH/): Tools for simulating and graphing quantities of interest estimated using Cox Proportional Hazards models.
 
-- [d3Network](http://christophergandrud.github.io/d3Network/): Tools for creating D3 JavaScript force directed network graphs from R. New implementation forthcoming ([networkD3[(https://github.com/christophergandrud/networkD3)]) with JJ Allaire and RStudio.
+- [d3Network](http://christophergandrud.github.io/d3Network/): Tools for creating D3 JavaScript force directed network graphs from R. New implementation forthcoming ([networkD3](https://github.com/christophergandrud/networkD3)) with JJ Allaire and RStudio.
 
 - [dpmr](https://github.com/christophergandrud/dpmr) Data package manager for R (with the [Open Knowledge Foundation](http://dataprotocols.org/data-packages/)).
 
