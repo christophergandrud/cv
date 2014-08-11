@@ -1,4 +1,8 @@
-cv
+Christopher Gandrud CV
 ==
 
-Personal CV
+My personal CV.
+
+---
+
+&copy; Christopher Gandrud (2014)
