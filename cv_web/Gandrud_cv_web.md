@@ -1,12 +1,12 @@
 # Christopher Gandrud, Ph.D.
 
-> <a href = "mailto:gandrud@hertie-school.org">gandrud@hertie-school.org</a>   
+> <a href = "mailto:gandrud@hertie-school.org">gandrud@hertie-school.org</a>
 > <http://christophergandrud.blogspot.com/>  
 > <https://github.com/christophergandrud>  
 
 
 > <font color = "#DE2D26"><strong>Hertie School of Governance</strong></font> <br>
-> Friedrichstr 180     
+> Friedrichstr 180
 > 10117 Berlin, Germany
 
 ______________________________________________________________________
@@ -15,7 +15,7 @@ ______________________________________________________________________
 
 #### Fiscal Governance Centre, Hertie School of Governance, Berlin (2013-Present)
 
-##### Post-Doctoral Researcher 
+##### Post-Doctoral Researcher
 
 I am co-authoring with Prof. Mark Hallerberg a project examining the political economy responses to financial crises. The project is funded by the *Deutsche Forschungsgemeinschaft*.
 
@@ -32,7 +32,7 @@ I was a lecturer in international relations and taught courses primarily in poli
 Research Associate
 
 #### London School of Economics (2010-2011)
-Fellow in Government 
+Fellow in Government
 
 #### London School of Economics/Peking University (August 2011 & 2012)
 
@@ -114,6 +114,7 @@ ______________________________________________________________________
 
 ### Work in Progress
 
+- Statistical Rules and Member State Electoral Incentives: Eurostat and the Europeanisation of Responses to Financial Crises. With Mark Hallerberg.
 - On Whose Account? Financial Crises, Elections, and the Rules of the Game. Book project with Mark Hallerberg.
 - The Financial Regulatory Transparency Index. With Mark Copelovich and Mark Hallerberg.
 - Triggering Macroeconomic Policy. With Jeffrey Chwieroth.
