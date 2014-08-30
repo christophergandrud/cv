@@ -47,25 +47,33 @@ ______________________________________________________________________
 ### Education
 
 #### London School of Economics (2008-2012)
+
 ##### MRes/PhD Political Science (Quantitative Research Methodology)
+
 *Awarded MRes with Distinction*
 
 My [thesis](http://etheses.lse.ac.uk/303/) used signalling games, event history analysis, and case studies to examine how economic policies are made in times of crisis.
 
 - Examiners: Charles Goodhart and Vera E. Troeger
+
 - Supervisors: Cheryl Schonhardt-Bailey and Simon Hix
 
 #### London School of Economics (2005-2006)
+
 ##### MSc Comparative Politics (Research Methodology)
+
 *Graduated with Distinction*
 
 #### McGill University (2003-2005)
+
 ##### BA (Honours) Political Science & Geography
+
 *Graduated with First Class Honours, in the top 10% of the class*
 
 ### Other Education
 
 #### Oxford University Spring Summer School (2014)
+
 ##### Bayesian Hierarchical Models for Social Research (taught by Jeff Gill)
 
 ______________________________________________________________________
@@ -79,7 +87,9 @@ ______________________________________________________________________
 
 ### Published Articles
 
-#### Peer reviewed journals
+#### Peer reviewed articles
+
+- Does Banking Union Worsen the EUs Democratic Deficit? The need for greater supervisory data transparency. With Mark Hallerberg. Forthcoming in the *Journal of Common Market Studies*.
 
 - Inflated Expectations: How government partisanship shapes bureaucrats' inflation forecasts. With Cassandra Grafstrom. Forthcoming in *Political Science Research and Methods*.
 
@@ -102,32 +112,45 @@ ______________________________________________________________________
 
 > Papers can be found at: <http://christophergandrud.blogspot.com/p/research.html>
 
-- Does Banking Union Worsen the EUs Democratic Deficit? The need for greater supervisory data transparency. With Mark Hallerberg. Revise and resubmit at the *Journal of Common Market Studies*.
 - Letting German Banks Fail: Federalism and the decision to close troubled banks. With Sahil Deo, Christian Franz, and Mark Hallerberg.
+
 - Bad Banks as a Response to Crises: When Do Governments Use Them, and Why Does Their Governance Differ? With Mark Hallerberg.
+
 - dynsim: An R implementation of dynamic simulations of autoregressive relationships. With Laron K Williams and Guy D Whitten.
+
 - Two Sword Lengths Apart: Credible Commitment Problems and Physical Violence in Multi-party Elected National Legislatures
+
 - How the Fed Manages its External Environment: An Analysis of Topical Responses to Political and Economic Stress (1997-2012). With Kevin Young.
+
 - Information and Financial Crisis Policy Making. With Micheal O'Keeffe.
+
 - It’s Not How Much, but When They Spend: Political institutions, contingent liabilities, and the costs of responding to financial crises. With Mark Hallerberg.
+
 - Automating R Package Citations in Reproducible Research Documents
 
 ### Work in Progress
 
 - Statistical Rules and Member State Electoral Incentives: Eurostat and the Europeanisation of Responses to Financial Crises. With Mark Hallerberg.
+
 - On Whose Account? Financial Crises, Elections, and the Rules of the Game. Book project with Mark Hallerberg.
+
 - The Financial Regulatory Transparency Index. With Mark Copelovich and Mark Hallerberg.
+
 - Triggering Macroeconomic Policy. With Jeffrey Chwieroth.
+
 - The Rusty Plumbing of Financial Globalization: The Political Economy of National Payment System Reforms. With Stefano Pagliari, Irene Spagna, and Kevin Young.
+
 - Strategic Choices to Use Parliamentary Brawls. With Emily Beaulieu.
+
 - Partisan Biases in Voters' Economic Forecasts. With Cassandra Grafstrom.
+
 - ''I Honestly Don't Know'': Credibly Committing to Bad Information
 
 ### Software
 
 - [simPH](http://christophergandrud.github.com/simPH/): Tools for simulating and graphing quantities of interest estimated using Cox Proportional Hazards models.
 
-- [d3Network](http://christophergandrud.github.io/d3Network/): Tools for creating D3 JavaScript force directed network graphs from R. New implementation forthcoming ([networkD3](https://github.com/christophergandrud/networkD3)) with JJ Allaire and RStudio.
+- [d3Network](http://christophergandrud.github.io/d3Network/): Tools for creating D3 JavaScript force directed network graphs from R. New implementation forthcoming ([networkD3](http://christophergandrud.github.io/networkD3/)) with JJ Allaire and RStudio.
 
 - [dpmr](https://github.com/christophergandrud/dpmr) Data package manager for R (with the [Open Knowledge Foundation](http://dataprotocols.org/data-packages/)).
 
@@ -148,7 +171,7 @@ ______________________________________________________________________
 
 ##### Hertie School of Governance (Fall 2014, Lecturer)
 
-- Introduction to Collaborative Social Science Data Analysis
+- MPP-E1180: Introduction to Collaborative Social Science Data Analysis
 
 ##### Yonsei University (Lecturer)
 
@@ -179,28 +202,47 @@ ______________________________________________________________________
 American Political Science Review, Chapman & Hall/CRC Press, International Political Science Review, Manning Publications Co., Packt Publishing, Political Research Quarterly.
 
 #### Recent Conference Presentations/Invited Talks:
+
 - Princeton University: Monetary Policy and Central Banking: Historical analysis and contemporary approaches (2015)
+
 - University of Mannheim: Textual Analysis in the Social Sciences (2014)
+
 - American Political Science Association Annual Conference (2012, 2013, 2014)
+
 - csv,Conf (2014)
+
 - European Political Science Association Annual Conference (2011, 2014)
+
 - International Political Economy Society Conference (2013)
+
 - International Studies Association Annual Convention (2013)
+
 - Midwestern Political Science Association Annual Conference (2012)
+
 - Waseda University GLOPE II Conference on Political Institutions (2012)
+
+
 - Korean Political Science Association World Congress (2011)
+
 - ECPR Regulation in the Age of Crisis (2010)
 
 #### Professional Memberships
 I am a member of the Foundation for Open Access Research, American Political Science Association, the European Political Science Association, and the Midwest Political Science Association, rOpenGov.
 
 #### Funding/Scholarships/Awards
+
 - LSE IR Department Seed Grant (with Jeff Chwieroth)
+
 - *Deutsche Forschungsgemeinschaft* (German National Research Foundation) Research Grant (with Mark Hallerberg)
+
 - LSE Class Teacher Award, Quantitative Methodology (2009-2010)
+
 - LSE Government Department PhD Scholarship (2008-2012)
+
 - Penn State University President's Award
+
 - Canadian Tower Scholarship for the Environment
+
 - NW Pennsylvania Collegiate Academy Scholarship for Social Studies
 
 #### Other Skills
