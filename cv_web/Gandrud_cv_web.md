@@ -105,6 +105,9 @@ ______________________________________________________________________
 
 - [Who Decides? Resolving Failed Banks in a European Framework](http://www.bruegel.org/publications/publication-detail/publication/803-who-decides-resolving-failed-banks-in-a-european-framework/). *Bruegel Policy Contribution*. November 2013.
 
+  + Published in Polish as ''Kto decyduje? Mechanizm Restrukturyzacji i uporzadkowanej likwidacji banków w eropejskich ramach''. *Nowa Europa*. 2014. 1(17).
+
+
 - [GitHub: A tool for Social Data Set Development and Verification in the Cloud](http://polmeth.wustl.edu/methodologist/tpm_v20_n2.pdf). *The Political Methodologist*. 2013. 20(2): 2-7.
 
 
