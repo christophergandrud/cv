@@ -99,7 +99,7 @@ ______________________________________________________________________
 
 - [The Diffusion of Financial Supervisory Governance Ideas](http://dx.doi.org/10.1080/09692290.2012.727362). *Review of International Political Economy*. 2013. 20(4):881-916.
 
-#### Other academic
+#### Other academic/policy articles
 
 - [Supervisory Transparency in the European Banking Union](http://www.bruegel.org/publications/publication-detail/publication/807-supervisory-transparency-in-the-european-banking-union/). *Bruegel Policy Contribution*. January 2014.
 

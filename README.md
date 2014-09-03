@@ -1,7 +1,7 @@
 Christopher Gandrud CV
 ==
 
-My personal CV in Markdown and LaTeX format. 
+My personal CV in Markdown and LaTeX formats. 
 
 ---
 
