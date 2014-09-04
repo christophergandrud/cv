@@ -133,7 +133,7 @@ ______________________________________________________________________
 
 ### Work in Progress
 
-- Statistical Rules and Member State Electoral Incentives: Eurostat and the Europeanisation of Responses to Financial Crises. With Mark Hallerberg.
+- Statistical Rules and Member State Electoral Incentives: Eurostat and the Europeanisation of Responses to Financial Crises. With Mark Hallerberg. For a special issue of *West European Politics*.
 
 - On Whose Account? Financial Crises, Elections, and the Rules of the Game. Book project with Mark Hallerberg.
 
