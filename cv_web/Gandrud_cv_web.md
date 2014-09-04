@@ -115,7 +115,7 @@ ______________________________________________________________________
 
 > Papers can be found at: <http://christophergandrud.blogspot.com/p/research.html>
 
-- Letting German Banks Fail: Federalism and the decision to close troubled banks. With Sahil Deo, Christian Franz, and Mark Hallerberg.
+- Letting German Banks Fail: Federalism and decisions to save troubled banks. With Sahil Deo, Christian Franz, and Mark Hallerberg. Revise and resubmit to *Politische Vierteljahresschrift* (PVS).
 
 - Bad Banks as a Response to Crises: When Do Governments Use Them, and Why Does Their Governance Differ? With Mark Hallerberg.
 
