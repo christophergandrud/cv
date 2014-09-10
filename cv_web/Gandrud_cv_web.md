@@ -193,7 +193,8 @@ ______________________________________________________________________
 
 - GV101: Introduction to Comparative Politics
 
-- FN208: Post-Crisis: What Next for the International Financial and Monetary Systems? (LSE-Peking University Summer School)
+- FN208: Post-Crisis: What Next for the International Financial and Monetary
+Systems? (LSE-Peking University Summer School)
 
 - MI452: Applied Regression Analysis
 
@@ -202,13 +203,21 @@ ______________________________________________________________________
 
 #### Reviewer
 
-American Political Science Review, Chapman & Hall/CRC Press, International Political Science Review, Manning Publications Co., Packt Publishing, Political Research Quarterly.
+American Political Science Review, Chapman & Hall/CRC Press, International
+Political Science Review, Manning Publications Co., Packt Publishing, Political
+Science Research and Methods, Political Research Quarterly.
 
 #### Recent Conference Presentations/Invited Talks:
 
-- Princeton University: Monetary Policy and Central Banking: Historical analysis and contemporary approaches (2015)
+- Princeton University: Monetary Policy and Central Banking: Historical analysis
+and contemporary approaches (2015)
+
+- Banking Regulation and Supervision and the Great Leap Forward in European
+Integration (2014)
 
 - University of Mannheim: Textual Analysis in the Social Sciences (2014)
+
+- YoungDNB Seminar on Transparency, Dutch Central Bank (2014)
 
 - American Political Science Association Annual Conference (2012, 2013, 2014)
 
@@ -230,7 +239,10 @@ American Political Science Review, Chapman & Hall/CRC Press, International Polit
 - ECPR Regulation in the Age of Crisis (2010)
 
 #### Professional Memberships
-I am a member of the Foundation for Open Access Research, American Political Science Association, the European Political Science Association, and the Midwest Political Science Association, rOpenGov.
+
+I am a member of the Foundation for Open Access Research, American Political
+Science Association, the European Political Science Association, and the Midwest
+Political Science Association, rOpenGov.
 
 #### Funding/Scholarships/Awards
 
