@@ -117,7 +117,8 @@ ______________________________________________________________________
 
 - Letting German Banks Fail: Federalism and decisions to save troubled banks. With Sahil Deo, Christian Franz, and Mark Hallerberg. Revise and resubmit to *Politische Vierteljahresschrift* (PVS).
 
-- Bad Banks as a Response to Crises: When Do Governments Use Them, and Why Does Their Governance Differ? With Mark Hallerberg.
+- Bad Banks as a Response to Crises: When Do Governments Use Them, and Why Does
+Their Governance Differ? With Mark Hallerberg.
 
 - dynsim: An R implementation of dynamic simulations of autoregressive relationships. With Laron K Williams and Guy D Whitten.
 
@@ -133,15 +134,18 @@ ______________________________________________________________________
 
 ### Work in Progress
 
-- Statistical Rules and Member State Electoral Incentives: Eurostat and the Europeanisation of Responses to Financial Crises. With Mark Hallerberg. For a special issue of *West European Politics*.
+- Statistical Rules and Member State Electoral Incentives: Eurostat and the
+Europeanisation of Responses to Financial Crises. With Mark Hallerberg. For a special issue of *West European Politics*.
 
-- On Whose Account? Financial Crises, Elections, and the Rules of the Game. Book project with Mark Hallerberg.
+- On Whose Account? Financial Crises, Elections, and the Rules of the Game.
+Book project with Mark Hallerberg.
 
 - The Financial Regulatory Transparency Index. With Mark Copelovich and Mark Hallerberg.
 
 - Triggering Macroeconomic Policy. With Jeffrey Chwieroth.
 
-- The Rusty Plumbing of Financial Globalization: The Political Economy of National Payment System Reforms. With Stefano Pagliari, Irene Spagna, and Kevin Young.
+- The Rusty Plumbing of Financial Globalization: The Political Economy of
+National Payment System Reforms. With Stefano Pagliari, Irene Spagna, and Kevin Young.
 
 - Strategic Choices to Use Parliamentary Brawls. With Emily Beaulieu.
 
@@ -151,7 +155,8 @@ ______________________________________________________________________
 
 ### Software
 
-- [simPH](http://christophergandrud.github.com/simPH/): Tools for simulating and graphing quantities of interest estimated using Cox Proportional Hazards models.
+- [simPH](http://christophergandrud.github.com/simPH/): Tools for simulating and
+graphing quantities of interest estimated using Cox Proportional Hazards models.
 
 - [d3Network](http://christophergandrud.github.io/d3Network/): Tools for creating D3 JavaScript force directed network graphs from R. New implementation forthcoming ([networkD3](http://christophergandrud.github.io/networkD3/)) with JJ Allaire and RStudio.
 
