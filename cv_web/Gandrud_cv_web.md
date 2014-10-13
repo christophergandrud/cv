@@ -140,7 +140,7 @@ Europeanisation of Responses to Financial Crises. With Mark Hallerberg. For a sp
 - On Whose Account? Financial Crises, Elections, and the Rules of the Game.
 Book project with Mark Hallerberg.
 
-- The Financial Regulatory Transparency Index. With Mark Copelovich and Mark Hallerberg.
+- The Financial Regulatory Transparency Index. With Mark Copelovitch and Mark Hallerberg.
 
 - Triggering Macroeconomic Policy. With Jeffrey Chwieroth.
 
@@ -209,8 +209,9 @@ Systems? (LSE-Peking University Summer School)
 #### Reviewer
 
 American Political Science Review, Chapman & Hall/CRC Press, International
-Political Science Review, Manning Publications Co., Packt Publishing, Political
-Science Research and Methods, Political Research Quarterly.
+Political Science Review, Manning Publications Co., Packt Publishing,
+International Studies Perspectives, Political Science Research and Methods,
+Political Research Quarterly.
 
 #### Recent Conference Presentations/Invited Talks:
 
