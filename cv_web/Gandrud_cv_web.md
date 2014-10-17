@@ -124,6 +124,9 @@ Their Governance Differ? With Mark Hallerberg.
 
 - Two Sword Lengths Apart: Credible Commitment Problems and Physical Violence in Multi-party Elected National Legislatures
 
+  + Write up on the [Monkey Cage](http://t.co/fETbFCXcYU) with Emily Beaulieu.
+
+
 - How the Fed Manages its External Environment: An Analysis of Topical Responses to Political and Economic Stress (1997-2012). With Kevin Young.
 
 - Information and Financial Crisis Policy Making. With Micheal O'Keeffe.
