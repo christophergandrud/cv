@@ -218,6 +218,8 @@ Political Research Quarterly.
 
 #### Recent Conference Presentations/Invited Talks:
 
+- Political Economy of International Organizations (2015)
+
 - Princeton University: Monetary Policy and Central Banking: Historical analysis
 and contemporary approaches (2015)
 
