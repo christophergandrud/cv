@@ -117,6 +117,10 @@ ______________________________________________________________________
 
 - Letting German Banks Fail: Federalism and decisions to save troubled banks. With Sahil Deo, Christian Franz, and Mark Hallerberg. Revise and resubmit to *Politische Vierteljahresschrift* (PVS).
 
+- Statistical Rules and Member State Electoral Incentives: Eurostat and the
+Europeanisation of Responses to Financial Crises with a Focus on Bad Banks.
+With Mark Hallerberg. For a special issue of *West European Politics*.
+
 - Bad Banks as a Response to Crises: When Do Governments Use Them, and Why Does
 Their Governance Differ? With Mark Hallerberg.
 
@@ -136,9 +140,6 @@ Their Governance Differ? With Mark Hallerberg.
 - Automating R Package Citations in Reproducible Research Documents
 
 ### Work in Progress
-
-- Statistical Rules and Member State Electoral Incentives: Eurostat and the
-Europeanisation of Responses to Financial Crises. With Mark Hallerberg. For a special issue of *West European Politics*.
 
 - On Whose Account? Financial Crises, Elections, and the Rules of the Game.
 Book project with Mark Hallerberg.
