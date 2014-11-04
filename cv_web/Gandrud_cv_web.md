@@ -135,7 +135,7 @@ Their Governance Differ? With Mark Hallerberg.
 
 - Information and Financial Crisis Policy Making. With Micheal O'Keeffe.
 
-- It’s Not How Much, but When They Spend: Political institutions, contingent liabilities, and the costs of responding to financial crises. With Mark Hallerberg.
+- When All is Said and Done: Updating 'Elections, Special Interests, and Financial Crisis'. With Mark Hallerberg.
 
 - Automating R Package Citations in Reproducible Research Documents
 
