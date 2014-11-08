@@ -209,7 +209,6 @@ Systems? (LSE-Peking University Summer School)
 
 - MI451: Introduction to Quantitative Analysis
 
-
 #### Reviewer
 
 American Political Science Review, Chapman & Hall/CRC Press, International
