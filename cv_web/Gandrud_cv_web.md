@@ -228,7 +228,7 @@ Integration (2014)
 
 - University of Mannheim: Textual Analysis in the Social Sciences (2014)
 
-- YoungDNB Seminar on Transparency, Dutch Central Bank (2014)
+- YoungDNB Seminar on Transparency, Bank of the Netherlands (2014)
 
 - American Political Science Association Annual Conference (2012, 2013, 2014)
 
@@ -243,7 +243,6 @@ Integration (2014)
 - Midwestern Political Science Association Annual Conference (2012)
 
 - Waseda University GLOPE II Conference on Political Institutions (2012)
-
 
 - Korean Political Science Association World Congress (2011)
 
