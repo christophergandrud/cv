@@ -115,7 +115,9 @@ ______________________________________________________________________
 
 > Papers can be found at: <http://christophergandrud.blogspot.com/p/research.html>
 
-- Letting German Banks Fail: Federalism and decisions to save troubled banks. With Sahil Deo, Christian Franz, and Mark Hallerberg. Revise and resubmit to *Politische Vierteljahresschrift* (PVS).
+- Letting German Banks Fail: Federalism and decisions to save troubled banks.
+With Sahil Deo, Christian Franz, and Mark Hallerberg. Revise and resubmit to
+*Politische Vierteljahresschrift* (PVS).
 
 - Statistical Rules and Member State Electoral Incentives: Eurostat and the
 Europeanisation of Responses to Financial Crises with a Focus on Bad Banks.
@@ -124,18 +126,22 @@ With Mark Hallerberg. For a special issue of *West European Politics*.
 - Bad Banks as a Response to Crises: When Do Governments Use Them, and Why Does
 Their Governance Differ? With Mark Hallerberg.
 
-- dynsim: An R implementation of dynamic simulations of autoregressive relationships. With Laron K Williams and Guy D Whitten.
+- dynsim: An R implementation of dynamic simulations of autoregressive
+relationships. With Laron K Williams and Guy D Whitten.
 
-- Two Sword Lengths Apart: Credible Commitment Problems and Physical Violence in Multi-party Elected National Legislatures
+- Two Sword Lengths Apart: Credible Commitment Problems and Physical Violence in
+Multi-party Elected National Legislatures
 
   + Write up on the [Monkey Cage](http://t.co/fETbFCXcYU) with Emily Beaulieu.
 
 
-- How the Fed Manages its External Environment: An Analysis of Topical Responses to Political and Economic Stress (1997-2012). With Kevin Young.
+- How the Fed Manages its External Environment: An Analysis of Topical Responses
+to Political and Economic Stress (1997-2012). With Kevin Young.
 
 - Information and Financial Crisis Policy Making. With Micheal O'Keeffe.
 
-- When All is Said and Done: Updating 'Elections, Special Interests, and Financial Crisis'. With Mark Hallerberg.
+- When All is Said and Done: Updating 'Elections, Special Interests, and
+Financial Crisis'. With Mark Hallerberg.
 
 - Automating R Package Citations in Reproducible Research Documents
 
@@ -144,12 +150,14 @@ Their Governance Differ? With Mark Hallerberg.
 - On Whose Account? Financial Crises, Elections, and the Rules of the Game.
 Book project with Mark Hallerberg.
 
-- The Financial Regulatory Transparency Index. With Mark Copelovitch and Mark Hallerberg.
+- The Financial Regulatory Transparency Index. With Mark Copelovitch and Mark
+Hallerberg.
 
 - Triggering Macroeconomic Policy. With Jeffrey Chwieroth.
 
 - The Rusty Plumbing of Financial Globalization: The Political Economy of
-National Payment System Reforms. With Stefano Pagliari, Irene Spagna, and Kevin Young.
+National Payment System Reforms. With Stefano Pagliari, Irene Spagna, and Kevin
+Young.
 
 - Strategic Choices to Use Parliamentary Brawls. With Emily Beaulieu.
 
