@@ -1,7 +1,7 @@
 # Christopher Gandrud, Ph.D.
 
-> <a href = "mailto:gandrud@hertie-school.org">gandrud@hertie-school.org</a>
-> <http://christophergandrud.blogspot.com/>  
+> <a href = "mailto:gandrud@hertie-school.org">gandrud@hertie-school.org</a>  
+> <http://christophergandrud.blogspot.com/>    
 > <https://github.com/christophergandrud>  
 
 
@@ -9,46 +9,45 @@
 > Friedrichstr 180
 > 10117 Berlin, Germany
 
-______________________________________________________________________
+---
 
-### Academic Positions
+## Academic Positions
 
-#### Fiscal Governance Centre, Hertie School of Governance, Berlin (2013-Present)
+### Fiscal Governance Centre, Hertie School of Governance, Berlin (2013-Present)
 
-##### Post-Doctoral Researcher
+#### Post-Doctoral Researcher
 
 I am co-authoring with Prof. Mark Hallerberg a project examining the political economy responses to financial crises. The project is funded by the *Deutsche Forschungsgemeinschaft*.
 
 I am also designing and teaching a new graduate-level course on collaborative data science.
 
-#### Yonsei University, South Korea (2012-2013)
+### Yonsei University, South Korea (2012-2013)
 
-##### Lecturer, International Relations
+#### Lecturer, International Relations
 
 I was a lecturer in international relations and taught courses primarily in political science and applied social science statistics.
 
-#### Hertie School of Governance, Berlin (2010-2012)
+### Hertie School of Governance, Berlin (2010-2012)
 
-Research Associate
+#### Research Associate
 
-#### London School of Economics (2010-2011)
-Fellow in Government
+### London School of Economics (2010-2011)
 
-#### London School of Economics/Peking University (August 2011 & 2012)
+#### Fellow in Government
 
-Teaching Assistant
+### London School of Economics/Peking University (August 2011 & 2012)
 
-#### London School of Economics (2009-2010)
+#### Teaching Assistant
 
-Teaching Assistant & IT Course Developer
+### London School of Economics (2009-2010)
 
-______________________________________________________________________
+#### Teaching Assistant & IT Course Developer
 
-### Education
+## Education
 
-#### London School of Economics (2008-2012)
+### London School of Economics (2008-2012)
 
-##### MRes/PhD Political Science (Quantitative Research Methodology)
+#### MRes/PhD Political Science (Quantitative Research Methodology)
 
 *Awarded MRes with Distinction*
 
@@ -58,36 +57,31 @@ My [thesis](http://etheses.lse.ac.uk/303/) used signalling games, event history 
 
 - Supervisors: Cheryl Schonhardt-Bailey and Simon Hix
 
-#### London School of Economics (2005-2006)
+### London School of Economics (2005-2006)
 
-##### MSc Comparative Politics (Research Methodology)
+#### MSc Comparative Politics (Research Methodology)
 
 *Graduated with Distinction*
 
-#### McGill University (2003-2005)
+### McGill University (2003-2005)
 
-##### BA (Honours) Political Science & Geography
+#### BA (Honours) Political Science & Geography
 
 *Graduated with First Class Honours, in the top 10% of the class*
 
-### Other Education
+### Oxford University Spring Summer School (2014)
 
-#### Oxford University Spring Summer School (2014)
+#### Bayesian Hierarchical Models for Social Research (taught by Jeff Gill)
 
-##### Bayesian Hierarchical Models for Social Research (taught by Jeff Gill)
-
-______________________________________________________________________
-
-
-### Book
+## Book
 
 [*Reproducible Research with **R** and **RStudio***](http://christophergandrud.github.io/RepResR-RStudio/). Chapman & Hall/CRC Press. 2013.
 
 - Second edition forthcoming 2015.
 
-### Published Articles
+## Articles
 
-#### Peer reviewed articles
+### Peer reviewed articles
 
 - Does Banking Union Worsen the EUs Democratic Deficit? The need for greater supervisory data transparency. With Mark Hallerberg. Forthcoming in the *Journal of Common Market Studies*.
 
@@ -99,7 +93,7 @@ ______________________________________________________________________
 
 - [The Diffusion of Financial Supervisory Governance Ideas](http://dx.doi.org/10.1080/09692290.2012.727362). *Review of International Political Economy*. 2013. 20(4):881-916.
 
-#### Other academic/policy articles
+### Other academic/policy articles
 
 - [Supervisory Transparency in the European Banking Union](http://www.bruegel.org/publications/publication-detail/publication/807-supervisory-transparency-in-the-european-banking-union/). *Bruegel Policy Contribution*. January 2014.
 
@@ -165,7 +159,7 @@ Young.
 
 - ''I Honestly Don't Know'': Credibly Committing to Bad Information
 
-### Software
+## Software
 
 - [simPH](http://christophergandrud.github.com/simPH/): Tools for simulating and
 graphing quantities of interest estimated using Cox Proportional Hazards models.
@@ -183,17 +177,17 @@ graphing quantities of interest estimated using Cox Proportional Hazards models.
 - [zoib](http://cran.r-project.org/web/packages/zoib/index.html) Bayesian inference for zero-one inflated beta regression. (Fang Liu and YunChuan Kong primary authors).
 
 
-### Other Academic Activities
+## Other Academic Activities
 
-#### Teaching
+### Teaching
 
 > Syllabi available at: <http://christophergandrud.blogspot.com/p/teaching.html>.
 
-##### Hertie School of Governance (Fall 2014, Lecturer)
+#### Hertie School of Governance (Fall 2014, Lecturer)
 
 - MPP-E1180: Introduction to Collaborative Social Science Data Analysis
 
-##### Yonsei University (Lecturer)
+#### Yonsei University (Lecturer)
 
 - INT4021: The Global Monetary & Financial System
 
@@ -206,7 +200,7 @@ graphing quantities of interest estimated using Cox Proportional Hazards models.
 - INT3040: Understanding Global Affairs
 
 
-##### London School of Economics (Fellow or Teaching Assistant)
+#### London School of Economics (Fellow or Teaching Assistant)
 
 - GV101: Introduction to Comparative Politics
 
@@ -217,14 +211,14 @@ Systems? (LSE-Peking University Summer School)
 
 - MI451: Introduction to Quantitative Analysis
 
-#### Reviewer
+## Reviewer
 
 American Political Science Review, Chapman & Hall/CRC Press, International
 Political Science Review, Managerial Finance, Manning Publications Co., Packt
 Publishing, International Studies Perspectives, Political Science
 Research and Methods, Political Research Quarterly.
 
-#### Recent Conference Presentations/Invited Talks:
+## Recent Conference Presentations/Invited Talks:
 
 - Political Economy of International Organizations (2015)
 
@@ -256,13 +250,13 @@ Integration (2014)
 
 - ECPR Regulation in the Age of Crisis (2010)
 
-#### Professional Memberships
+### Professional Memberships
 
 I am a member of the Foundation for Open Access Research, American Political
 Science Association, the European Political Science Association, and the Midwest
 Political Science Association, rOpenGov.
 
-#### Funding/Scholarships/Awards
+### Funding/Scholarships/Awards
 
 - LSE IR Department Seed Grant (with Jeff Chwieroth)
 
@@ -278,7 +272,7 @@ Political Science Association, rOpenGov.
 
 - NW Pennsylvania Collegiate Academy Scholarship for Social Studies
 
-#### Other Skills
+## Other Skills
 I am a highly skilled user of Amazon EC2, Bash, CSS, Git/GitHub, HTML, JAGS, JavaScript, knitr, LaTeX, Linux, Lyx, MS Office, MySQL, Python, R, Shiny web apps, SPSS, Stan, and Stata.  
 
 I have studied Spanish, French, Korean, and am currently working on German. I have lived in Korea and Germany for a number of years.
