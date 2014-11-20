@@ -1,7 +1,7 @@
 # Christopher Gandrud, Ph.D.
 
 > <a href = "mailto:gandrud@hertie-school.org">gandrud@hertie-school.org</a>  
-> <http://christophergandrud.blogspot.com/>    
+> <http://christophergandrud.blogspot.com/>
 > <https://github.com/christophergandrud>  
 
 
@@ -76,6 +76,9 @@ My [thesis](http://etheses.lse.ac.uk/303/) used signalling games, event history 
 ## Book
 
 [*Reproducible Research with **R** and **RStudio***](http://christophergandrud.github.io/RepResR-RStudio/). Chapman & Hall/CRC Press. 2013.
+
+- First edition reviewed in
+[The American Statistician](http://dx.doi.org/10.1080/00031305.2014.970881).
 
 - Second edition forthcoming 2015.
 
