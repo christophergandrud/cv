@@ -129,7 +129,7 @@ relationships. With Laron K Williams and Guy D Whitten.
 - Two Sword Lengths Apart: Credible Commitment Problems and Physical Violence in
 Multi-party Elected National Legislatures
 
-  + Write up on the [Monkey Cage](http://t.co/fETbFCXcYU) with Emily Beaulieu.
+    + Write up on the [Monkey Cage](http://t.co/fETbFCXcYU) with Emily Beaulieu.
 
 
 - How the Fed Manages its External Environment: An Analysis of Topical Responses
