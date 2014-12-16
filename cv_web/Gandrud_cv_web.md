@@ -86,23 +86,36 @@ My [thesis](http://etheses.lse.ac.uk/303/) used signalling games, event history 
 
 ### Peer reviewed articles
 
-- Does Banking Union Worsen the EUs Democratic Deficit? The need for greater supervisory data transparency. With Mark Hallerberg. Forthcoming in the *Journal of Common Market Studies*.
+- Does Banking Union Worsen the EUs Democratic Deficit? The need for greater
+supervisory data transparency. With Mark Hallerberg. Forthcoming in the
+*Journal of Common Market Studies*.
 
-- Inflated Expectations: How government partisanship shapes bureaucrats' inflation forecasts. With Cassandra Grafstrom. Forthcoming in *Political Science Research and Methods*.
+- Inflated Expectations: How government partisanship shapes bureaucrats'
+inflation forecasts. With Cassandra Grafstrom. Forthcoming in
+*Political Science Research and Methods*.
 
-- `simPH`: An R Package for Illustrating Estimates from Cox Proportional Hazard Models Including for Interactive and Nonlinear Effects. Forthcoming in the *Journal of Statistical Software*.
+- `simPH`: An R Package for Illustrating Estimates from Cox Proportional Hazard
+Models Including for Interactive and Nonlinear Effects. Forthcoming in the
+*Journal of Statistical Software*.
 
-- [Competing Risks and the Mechanisms of Deposit Insurance Governance Convergence](http://ips.sagepub.com/content/early/2013/06/09/0192512113485333.abstract). *International Political Science Review*. 2014. 35(2):197-217.
+- [Competing Risks and the Mechanisms of Deposit Insurance Governance Convergence](http://ips.sagepub.com/content/early/2013/06/09/0192512113485333.abstract).
+*International Political Science Review*. 2014. 35(2):197-217.
 
-- [The Diffusion of Financial Supervisory Governance Ideas](http://dx.doi.org/10.1080/09692290.2012.727362). *Review of International Political Economy*. 2013. 20(4):881-916.
+- [The Diffusion of Financial Supervisory Governance Ideas](http://dx.doi.org/10.1080/09692290.2012.727362).
+*Review of International Political Economy*. 2013. 20(4):881-916.
 
 ### Other academic/policy articles
+
+- Bad Banks in the EU: The impact of Eurostat rules. *Bruegel Working Paper*.
+2014/15.
 
 - [Supervisory Transparency in the European Banking Union](http://www.bruegel.org/publications/publication-detail/publication/807-supervisory-transparency-in-the-european-banking-union/). *Bruegel Policy Contribution*. January 2014.
 
 - [Who Decides? Resolving Failed Banks in a European Framework](http://www.bruegel.org/publications/publication-detail/publication/803-who-decides-resolving-failed-banks-in-a-european-framework/). *Bruegel Policy Contribution*. November 2013.
 
-  + Published in Polish as ''Kto decyduje? Mechanizm Restrukturyzacji i uporzadkowanej likwidacji banków w eropejskich ramach''. *Nowa Europa*. 2014. 1(17).
+  + Published in Polish as ''Kto decyduje? Mechanizm Restrukturyzacji i
+uporzadkowanej likwidacji banków w eropejskich ramach''. *Nowa Europa*. 2014.
+1(17).
 
 
 - [GitHub: A tool for Social Data Set Development and Verification in the Cloud](http://polmeth.wustl.edu/methodologist/tpm_v20_n2.pdf). *The Political Methodologist*. 2013. 20(2): 2-7.
@@ -167,17 +180,25 @@ Young.
 - [simPH](http://christophergandrud.github.com/simPH/): Tools for simulating and
 graphing quantities of interest estimated using Cox Proportional Hazards models.
 
-- [d3Network](http://christophergandrud.github.io/d3Network/): Tools for creating D3 JavaScript force directed network graphs from R. New implementation forthcoming ([networkD3](http://christophergandrud.github.io/networkD3/)) with JJ Allaire and RStudio.
+- [networkD3](http://christophergandrud.github.io/networkD3/): Tools for creating
+D3 JavaScript network graphs from R. With JJ Allaire and RStudio.
 
-- [dpmr](https://github.com/christophergandrud/dpmr) Data package manager for R (with the [Open Knowledge Foundation](http://dataprotocols.org/data-packages/)).
+- [dpmr](https://github.com/christophergandrud/dpmr) Data package manager for R
+(with the [Open Knowledge Foundation](http://dataprotocols.org/data-packages/)).
 
-- [dynsim](http://christophergandrud.github.io/dynsim/): An R implementation of dynamic simulations of autoregressive relationships (with Laron K Williams and Guy D Whitten).
+- [dynsim](http://christophergandrud.github.io/dynsim/): An R implementation of
+dynamic simulations of autoregressive relationships (with Laron K Williams and
+Guy D Whitten).
 
-- [repmis](http://christophergandrud.github.com/repmis/): A collection of miscellaneous tools for reproducible research with R.
+- [repmis](http://christophergandrud.github.com/repmis/): A collection of
+miscellaneous tools for reproducible research with R.
 
-- [DataCombine](http://christophergandrud.github.io/DataCombine/): R tools for making it easier to combine and clean data sets.
+- [DataCombine](http://christophergandrud.github.io/DataCombine/): R tools for
+making it easier to combine and clean data sets.
 
-- [zoib](http://cran.r-project.org/web/packages/zoib/index.html) Bayesian inference for zero-one inflated beta regression. (Fang Liu and YunChuan Kong primary authors).
+- [zoib](http://cran.r-project.org/web/packages/zoib/index.html) Bayesian
+inference for zero-one inflated beta regression. (Fang Liu and YunChuan Kong
+primary authors).
 
 
 ## Other Academic Activities
@@ -263,7 +284,8 @@ Political Science Association, rOpenGov.
 
 - LSE IR Department Seed Grant (with Jeff Chwieroth)
 
-- *Deutsche Forschungsgemeinschaft* (German National Research Foundation) Research Grant (with Mark Hallerberg)
+- *Deutsche Forschungsgemeinschaft* (German National Research Foundation)
+Research Grant (with Mark Hallerberg)
 
 - LSE Class Teacher Award, Quantitative Methodology (2009-2010)
 
@@ -276,6 +298,9 @@ Political Science Association, rOpenGov.
 - NW Pennsylvania Collegiate Academy Scholarship for Social Studies
 
 ## Other Skills
-I am a highly skilled user of Amazon EC2, Bash, CSS, Git/GitHub, HTML, JAGS, JavaScript, knitr, LaTeX, Linux, Lyx, MS Office, MySQL, Python, R, Shiny web apps, SPSS, Stan, and Stata.  
+I am a highly skilled user of Amazon EC2, Bash, CSS, Git/GitHub, HTML, JAGS,
+JavaScript, knitr, LaTeX, Linux, Lyx, MS Office, MySQL, Python, R, Shiny web
+apps, SPSS, Stan, and Stata.  
 
-I have studied Spanish, French, Korean, and am currently working on German. I have lived in Korea and Germany for a number of years.
+I have studied Spanish, French, Korean, and am currently working on German. I
+have lived in Korea and Germany for a number of years.
