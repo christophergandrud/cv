@@ -106,8 +106,8 @@ Models Including for Interactive and Nonlinear Effects. Forthcoming in the
 
 ### Other academic/policy articles
 
-- Bad Banks in the EU: The impact of Eurostat rules. *Bruegel Working Paper*.
-2014/15.
+- [Bad Banks in the EU: The impact of Eurostat rules](http://www.bruegel.org/publications/publication-detail/publication/864-bad-banks-in-the-eu-the-impact-of-eurostat-rules/).
+*Bruegel Working Paper*. 2014/15.
 
 - [Supervisory Transparency in the European Banking Union](http://www.bruegel.org/publications/publication-detail/publication/807-supervisory-transparency-in-the-european-banking-union/). *Bruegel Policy Contribution*. January 2014.
 
