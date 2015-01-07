@@ -113,7 +113,7 @@ Models Including for Interactive and Nonlinear Effects. Forthcoming in the
 
 - [Who Decides? Resolving Failed Banks in a European Framework](http://www.bruegel.org/publications/publication-detail/publication/803-who-decides-resolving-failed-banks-in-a-european-framework/). *Bruegel Policy Contribution*. November 2013.
 
-  + Published in Polish as ''Kto decyduje? Mechanizm Restrukturyzacji i
+    + Published in Polish as ''Kto decyduje? Mechanizm Restrukturyzacji i
 uporzadkowanej likwidacji banków w eropejskich ramach''. *Nowa Europa*. 2014.
 1(17).
 
@@ -238,9 +238,9 @@ Systems? (LSE-Peking University Summer School)
 ## Reviewer
 
 American Political Science Review, Chapman & Hall/CRC Press, International
-Political Science Review, Managerial Finance, Manning Publications Co., Packt
-Publishing, International Studies Perspectives, Political Science
-Research and Methods, Political Research Quarterly.
+Political Science Review, Journal of Common Market Studies, Managerial Finance,
+Manning Publications Co., Packt Publishing, International Studies Perspectives,
+Political Science Research and Methods, Political Research Quarterly.
 
 ## Recent Conference Presentations/Invited Talks:
 
