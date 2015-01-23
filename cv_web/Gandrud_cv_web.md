@@ -94,6 +94,10 @@ supervisory data transparency](http://onlinelibrary.wiley.com/doi/10.1111/jcms.1
 inflation forecasts](http://dx.doi.org/10.1017/psrm.2014.34). With Cassandra Grafstrom. Forthcoming in
 *Political Science Research and Methods*.
 
+- Letting German Banks Fail: Federalism and decisions to save troubled banks.
+With Sahil Deo, Christian Franz, and Mark Hallerberg. Forthcoming at
+*Politische Vierteljahresschrift* (PVS).
+
 - `simPH`: An R Package for Illustrating Estimates from Cox Proportional Hazard
 Models Including for Interactive and Nonlinear Effects. Forthcoming in the
 *Journal of Statistical Software*.
@@ -125,9 +129,8 @@ uporzadkowanej likwidacji banków w eropejskich ramach''. *Nowa Europa*. 2014.
 
 > Papers can be found at: <http://christophergandrud.blogspot.com/p/research.html>
 
-- Letting German Banks Fail: Federalism and decisions to save troubled banks.
-With Sahil Deo, Christian Franz, and Mark Hallerberg. Revise and resubmit to
-*Politische Vierteljahresschrift* (PVS).
+- When All is Said and Done: Updating 'Elections, Special Interests, and
+Financial Crisis'. With Mark Hallerberg. Revise and resubmit at *Research and Politics*.
 
 - Statistical Rules and Member State Electoral Incentives: Eurostat and the
 Europeanisation of Responses to Financial Crises with a Focus on Bad Banks.
@@ -149,9 +152,6 @@ Multi-party Elected National Legislatures
 to Political and Economic Stress (1997-2012). With Kevin Young.
 
 - Information and Financial Crisis Policy Making. With Micheal O'Keeffe.
-
-- When All is Said and Done: Updating 'Elections, Special Interests, and
-Financial Crisis'. With Mark Hallerberg.
 
 - Automating R Package Citations in Reproducible Research Documents
 
