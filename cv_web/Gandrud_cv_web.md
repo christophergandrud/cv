@@ -94,6 +94,9 @@ supervisory data transparency](http://onlinelibrary.wiley.com/doi/10.1111/jcms.1
 inflation forecasts](http://dx.doi.org/10.1017/psrm.2014.34). With Cassandra Grafstrom. Forthcoming in
 *Political Science Research and Methods*.
 
+    + Write up on the [Monkey Cage](http://www.washingtonpost.com/blogs/monkey-cage/wp/2015/01/28/the-fed-cant-accurately-forecast-inflation-heres-why-this-may-hurt-democrats/).
+
+
 - Letting German Banks Fail: Federalism and decisions to save troubled banks.
 With Sahil Deo, Christian Franz, and Mark Hallerberg. Forthcoming at
 *Politische Vierteljahresschrift* (PVS).
@@ -127,7 +130,7 @@ uporzadkowanej likwidacji banków w eropejskich ramach''. *Nowa Europa*. 2014.
 
 ### Under Review/Working Papers
 
-> Papers can be found at: <http://christophergandrud.blogspot.com/p/research.html>
+> Papers [available online](http://christophergandrud.blogspot.com/p/research.html).
 
 - When All is Said and Done: Updating 'Elections, Special Interests, and
 Financial Crisis'. With Mark Hallerberg. Revise and resubmit at *Research and Politics*.
@@ -135,6 +138,8 @@ Financial Crisis'. With Mark Hallerberg. Revise and resubmit at *Research and Po
 - Statistical Rules and Member State Electoral Incentives: Eurostat and the
 Europeanisation of Responses to Financial Crises with a Focus on Bad Banks.
 With Mark Hallerberg. For a special issue of *West European Politics*.
+
+- Financial Regulatory Transparency, International Institutions, and Borrowing Costs. With Mark Copelovitch and Mark Hallerberg.
 
 - Bad Banks as a Response to Crises: When Do Governments Use Them, and Why Does
 Their Governance Differ? With Mark Hallerberg.
@@ -153,15 +158,10 @@ to Political and Economic Stress (1997-2012). With Kevin Young.
 
 - Information and Financial Crisis Policy Making. With Micheal O'Keeffe.
 
-- Automating R Package Citations in Reproducible Research Documents
-
 ### Work in Progress
 
 - On Whose Account? Financial Crises, Elections, and the Rules of the Game.
 Book project with Mark Hallerberg.
-
-- The Financial Regulatory Transparency Index. With Mark Copelovitch and Mark
-Hallerberg.
 
 - Triggering Macroeconomic Policy. With Jeffrey Chwieroth.
 
@@ -205,7 +205,7 @@ primary authors).
 
 ### Teaching
 
-> Syllabi available at: <http://christophergandrud.blogspot.com/p/teaching.html>.
+> Syllabi [available online](http://christophergandrud.blogspot.com/p/teaching.html).
 
 #### Hertie School of Governance (Fall 2014, Lecturer)
 
