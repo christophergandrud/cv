@@ -96,11 +96,6 @@ inflation forecasts](http://dx.doi.org/10.1017/psrm.2014.34). With Cassandra Gra
 
     + Write up on the [Monkey Cage](http://www.washingtonpost.com/blogs/monkey-cage/wp/2015/01/28/the-fed-cant-accurately-forecast-inflation-heres-why-this-may-hurt-democrats/).
 
-
-- Letting German Banks Fail: Federalism and decisions to save troubled banks.
-With Sahil Deo, Christian Franz, and Mark Hallerberg. Forthcoming at
-*Politische Vierteljahresschrift* (PVS).
-
 - `simPH`: An R Package for Illustrating Estimates from Cox Proportional Hazard
 Models Including for Interactive and Nonlinear Effects. Forthcoming in the
 *Journal of Statistical Software*.
@@ -132,14 +127,24 @@ uporzadkowanej likwidacji banków w eropejskich ramach''. *Nowa Europa*. 2014.
 
 > Papers [available online](http://christophergandrud.blogspot.com/p/research.html).
 
+- How the Fed Manages its External Environment: An Analysis of Topical Responses
+to Political and Economic Stress (1997-2012). With Kevin Young. Revise and
+resumbit at *Journal of Public Policy*.
+
 - When All is Said and Done: Updating 'Elections, Special Interests, and
-Financial Crisis'. With Mark Hallerberg. Revise and resubmit at *Research and Politics*.
+Financial Crisis'. With Mark Hallerberg. Revise and resubmit at
+*Research and Politics*.
+
+- Letting German Banks Fail: Federalism and decisions to save troubled banks.
+With Sahil Deo, Christian Franz, and Mark Hallerberg. Revise and resubmit at
+*Politische Vierteljahresschrift* (PVS).
 
 - Statistical Rules and Member State Electoral Incentives: Eurostat and the
 Europeanisation of Responses to Financial Crises with a Focus on Bad Banks.
 With Mark Hallerberg. For a special issue of *West European Politics*.
 
-- Financial Regulatory Transparency, International Institutions, and Borrowing Costs. With Mark Copelovitch and Mark Hallerberg.
+- Financial Regulatory Transparency, International Institutions, and Borrowing
+Costs. With Mark Copelovitch and Mark Hallerberg.
 
 - Bad Banks as a Response to Crises: When Do Governments Use Them, and Why Does
 Their Governance Differ? With Mark Hallerberg.
@@ -151,10 +156,6 @@ relationships. With Laron K Williams and Guy D Whitten.
 Multi-party Elected National Legislatures
 
     + Write up on the [Monkey Cage](http://t.co/fETbFCXcYU) with Emily Beaulieu.
-
-
-- How the Fed Manages its External Environment: An Analysis of Topical Responses
-to Political and Economic Stress (1997-2012). With Kevin Young.
 
 - Information and Financial Crisis Policy Making. With Micheal O'Keeffe.
 
@@ -300,7 +301,7 @@ Research Grant (with Mark Hallerberg)
 ## Other Skills
 I am a highly skilled user of Amazon EC2, Bash, CSS, Git/GitHub, HTML, JAGS,
 JavaScript, knitr, LaTeX, Linux, Lyx, MS Office, MySQL, Python, R, Shiny web
-apps, SPSS, Stan, and Stata.  
+apps, SPSS, Stan, and Stata.
 
 I have studied Spanish, French, Korean, and am currently working on German. I
 have lived in Korea and Germany for a number of years.
