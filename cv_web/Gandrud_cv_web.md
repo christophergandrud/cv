@@ -15,7 +15,7 @@
 
 ### Fiscal Governance Centre, Hertie School of Governance, Berlin (2013-Present)
 
-#### Post-Doctoral Researcher
+#### Post-Doctoral Fellow
 
 I am co-authoring with Prof. Mark Hallerberg a project examining the political economy responses to financial crises. The project is funded by the *Deutsche Forschungsgemeinschaft*.
 
@@ -107,6 +107,8 @@ Models Including for Interactive and Nonlinear Effects. Forthcoming in the
 *Review of International Political Economy*. 2013. 20(4):881-916.
 
 ### Other academic/policy articles
+
+- Corrections and Refinements to the Database of Political Institutions' **yrcurnt** Election Timing Variable. Forthcoming in *The Political Methodologist*.
 
 - [Bad Banks in the EU: The impact of Eurostat rules](http://www.bruegel.org/publications/publication-detail/publication/864-bad-banks-in-the-eu-the-impact-of-eurostat-rules/).
 *Bruegel Working Paper*. 2014/15.
