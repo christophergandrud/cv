@@ -19,7 +19,7 @@
 
 I am co-authoring with Prof. Mark Hallerberg a project examining the political economy responses to financial crises. The project is funded by the *Deutsche Forschungsgemeinschaft*.
 
-I am also designing and teaching a new graduate-level course on collaborative data science.
+I also design and teach a new graduate-level course on collaborative data science.
 
 ### Yonsei University, South Korea (2012-2013)
 
@@ -129,9 +129,8 @@ uporzadkowanej likwidacji banków w eropejskich ramach''. *Nowa Europa*. 2014.
 
 > Papers [available online](http://christophergandrud.blogspot.com/p/research.html).
 
-- How the Fed Manages its External Environment: An Analysis of Topical Responses
-to Political and Economic Stress (1997-2012). With Kevin Young. Revise and
-resumbit at *Journal of Public Policy*.
+- Speaking Under Stress: An Analysis of Federal Reserve Speeches. With Kevin
+Young. Revise and resubmit at *Journal of Public Policy*.
 
 - When All is Said and Done: Updating 'Elections, Special Interests, and
 Financial Crisis'. With Mark Hallerberg. Revise and resubmit at
@@ -172,11 +171,15 @@ Book project with Mark Hallerberg.
 National Payment System Reforms. With Stefano Pagliari, Irene Spagna, and Kevin
 Young.
 
+- A Text Based Measure of Banking Crises. With Sahil Deo, Christian Franz, and
+Mark Hallerberg
+
+- Developing Central Bank Credibility in Developing Economies: A sentiment
+analysis of the Reserve Bank of India. With Sahil Deo and Christian Franz.
+
 - Strategic Choices to Use Parliamentary Brawls. With Emily Beaulieu.
 
 - Partisan Biases in Voters' Economic Forecasts. With Cassandra Grafstrom.
-
-- ''I Honestly Don't Know'': Credibly Committing to Bad Information
 
 ## Software
 
