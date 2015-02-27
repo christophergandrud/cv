@@ -96,6 +96,10 @@ inflation forecasts](http://dx.doi.org/10.1017/psrm.2014.34). With Cassandra Gra
 
     + Write up on the [Monkey Cage](http://www.washingtonpost.com/blogs/monkey-cage/wp/2015/01/28/the-fed-cant-accurately-forecast-inflation-heres-why-this-may-hurt-democrats/).
 
+- Letting German Banks Fail: Federalism and decisions to save troubled banks.
+With Sahil Deo, Christian Franz, and Mark Hallerberg. Forthcoming at
+*Politische Vierteljahresschrift* (PVS).
+
 - `simPH`: An R Package for Illustrating Estimates from Cox Proportional Hazard
 Models Including for Interactive and Nonlinear Effects. Forthcoming in the
 *Journal of Statistical Software*.
@@ -135,10 +139,6 @@ Young. Revise and resubmit at *Journal of Public Policy*.
 - When All is Said and Done: Updating 'Elections, Special Interests, and
 Financial Crisis'. With Mark Hallerberg. Revise and resubmit at
 *Research and Politics*.
-
-- Letting German Banks Fail: Federalism and decisions to save troubled banks.
-With Sahil Deo, Christian Franz, and Mark Hallerberg. Revise and resubmit at
-*Politische Vierteljahresschrift* (PVS).
 
 - Statistical Rules and Member State Electoral Incentives: Eurostat and the
 Europeanisation of Responses to Financial Crises with a Focus on Bad Banks.
