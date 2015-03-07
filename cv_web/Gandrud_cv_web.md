@@ -140,9 +140,9 @@ Young. Revise and resubmit at *Journal of Public Policy*.
 Financial Crisis'. With Mark Hallerberg. Revise and resubmit at
 *Research and Politics*.
 
-- Statistical Rules and Member State Electoral Incentives: Eurostat and the
-Europeanisation of Responses to Financial Crises with a Focus on Bad Banks.
-With Mark Hallerberg. For a special issue of *West European Politics*.
+- Statistical Agencies and Responses to Financial Crises: Eurostat, Bad Banks,
+and the ESM. With Mark Hallerberg.
+For a special issue of *West European Politics*.
 
 - Financial Regulatory Transparency, International Institutions, and Borrowing
 Costs. With Mark Copelovitch and Mark Hallerberg.
