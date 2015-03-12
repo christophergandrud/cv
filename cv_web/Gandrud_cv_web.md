@@ -133,6 +133,11 @@ uporzadkowanej likwidacji banków w eropejskich ramach''. *Nowa Europa*. 2014.
 
 > Papers [available online](http://christophergandrud.blogspot.com/p/research.html).
 
+- Two Sword Lengths Apart: Credible Commitment Problems and Physical Violence in
+Multi-party Elected National Legislatures. Revise and resubmit to the *Journal of Peace Research*.
+
+    + Write up on the [Monkey Cage](http://t.co/fETbFCXcYU) with Emily Beaulieu.
+
 - Speaking Under Stress: An Analysis of Federal Reserve Speeches. With Kevin
 Young. Revise and resubmit at *Journal of Public Policy*.
 
@@ -152,11 +157,6 @@ Their Governance Differ? With Mark Hallerberg.
 
 - dynsim: An R implementation of dynamic simulations of autoregressive
 relationships. With Laron K Williams and Guy D Whitten.
-
-- Two Sword Lengths Apart: Credible Commitment Problems and Physical Violence in
-Multi-party Elected National Legislatures
-
-    + Write up on the [Monkey Cage](http://t.co/fETbFCXcYU) with Emily Beaulieu.
 
 - Information and Financial Crisis Policy Making. With Micheal O'Keeffe.
 
