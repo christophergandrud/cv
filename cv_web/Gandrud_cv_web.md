@@ -112,7 +112,9 @@ Models Including for Interactive and Nonlinear Effects. Forthcoming in the
 
 ### Other academic/policy articles
 
-- Corrections and Refinements to the Database of Political Institutions' **yrcurnt** Election Timing Variable. Forthcoming in *The Political Methodologist*.
+- Corrections and Refinements to the Database of Political Institutions'
+**yrcurnt** Election Timing Variable. 2015.
+*The Political Methodologist*. 22(2).
 
 - [Bad Banks in the EU: The impact of Eurostat rules](http://www.bruegel.org/publications/publication-detail/publication/864-bad-banks-in-the-eu-the-impact-of-eurostat-rules/).
 *Bruegel Working Paper*. 2014/15.
@@ -134,15 +136,15 @@ uporzadkowanej likwidacji banków w eropejskich ramach''. *Nowa Europa*. 2014.
 > Papers [available online](http://christophergandrud.blogspot.com/p/research.html).
 
 - Speaking Under Stress: An Analysis of Federal Reserve Speeches. With Kevin
-Young. Revise and resubmit at *Journal of Public Policy*.
-
-- When All is Said and Done: Updating 'Elections, Special Interests, and
-Financial Crisis'. With Mark Hallerberg. Revise and resubmit at
-*Research and Politics*.
+Young. Revise and resubmit to *Journal of Public Policy*.
 
 - Statistical Agencies and Responses to Financial Crises: Eurostat, Bad Banks,
 and the ESM. With Mark Hallerberg.
-For a special issue of *West European Politics*.
+Revise and resubmit to *West European Politics*.
+
+- When All is Said and Done: Updating 'Elections, Special Interests, and
+Financial Crisis'. With Mark Hallerberg. Revise and resubmit to
+*Research and Politics*.
 
 - Financial Regulatory Transparency, International Institutions, and Borrowing
 Costs. With Mark Copelovitch and Mark Hallerberg.
@@ -202,10 +204,6 @@ miscellaneous tools for reproducible research with R.
 - [DataCombine](http://christophergandrud.github.io/DataCombine/): R tools for
 making it easier to combine and clean data sets.
 
-- [zoib](http://cran.r-project.org/web/packages/zoib/index.html) Bayesian
-inference for zero-one inflated beta regression. (Fang Liu and YunChuan Kong
-primary authors).
-
 
 ## Other Academic Activities
 
@@ -250,6 +248,11 @@ Political Science Research and Methods, Political Research Quarterly.
 
 ## Recent Conference Presentations/Invited Talks:
 
+- American Political Science Association Annual Conference (2012, 2013, 2014,
+2015)
+
+- Open Energy Modeling Workshop (2015)
+
 - Political Economy of International Organizations (2015)
 
 - Princeton University: Monetary Policy and Central Banking: Historical analysis
@@ -261,8 +264,6 @@ Integration (2014)
 - University of Mannheim: Textual Analysis in the Social Sciences (2014)
 
 - YoungDNB Seminar on Transparency, Bank of the Netherlands (2014)
-
-- American Political Science Association Annual Conference (2012, 2013, 2014)
 
 - csv,Conf (2014)
 
