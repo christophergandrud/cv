@@ -96,6 +96,9 @@ inflation forecasts](http://dx.doi.org/10.1017/psrm.2014.34). With Cassandra Gra
 
     + Write up on the [Monkey Cage](http://www.washingtonpost.com/blogs/monkey-cage/wp/2015/01/28/the-fed-cant-accurately-forecast-inflation-heres-why-this-may-hurt-democrats/).
 
+- When All is Said and Done: Updating 'Elections, Special Interests, and
+Financial Crisis'. With Mark Hallerberg. Forthcoming at *Research and Politics*.
+
 - Letting German Banks Fail: Federalism and decisions to save troubled banks.
 With Sahil Deo, Christian Franz, and Mark Hallerberg. Forthcoming at
 *Politische Vierteljahresschrift* (PVS).
@@ -146,10 +149,6 @@ Young. Revise and resubmit to *Journal of Public Policy*.
 - Statistical Agencies and Responses to Financial Crises: Eurostat, Bad Banks,
 and the ESM. With Mark Hallerberg.
 Revise and resubmit to *West European Politics*.
-
-- When All is Said and Done: Updating 'Elections, Special Interests, and
-Financial Crisis'. With Mark Hallerberg. Revise and resubmit to
-*Research and Politics*.
 
 - Financial Regulatory Transparency, International Institutions, and Borrowing
 Costs. With Mark Copelovitch and Mark Hallerberg.
