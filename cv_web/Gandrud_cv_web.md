@@ -99,13 +99,13 @@ inflation forecasts](http://dx.doi.org/10.1017/psrm.2014.34). With Cassandra Gra
 - When All is Said and Done: Updating 'Elections, Special Interests, and
 Financial Crisis'. With Mark Hallerberg. Forthcoming at *Research and Politics*.
 
-- Letting German Banks Fail: Federalism and decisions to save troubled banks.
-With Sahil Deo, Christian Franz, and Mark Hallerberg. Forthcoming at
-*Politische Vierteljahresschrift* (PVS).
-
 - `simPH`: An R Package for Illustrating Estimates from Cox Proportional Hazard
 Models Including for Interactive and Nonlinear Effects. Forthcoming in the
 *Journal of Statistical Software*.
+
+- Letting German Banks Fail: Federalism and decisions to save troubled banks.
+With Sahil Deo, Christian Franz, and Mark Hallerberg.
+*Politische Vierteljahresschrift* (PVS). 2015. 56(2):159-181.
 
 - [Competing Risks and the Mechanisms of Deposit Insurance Governance Convergence](http://ips.sagepub.com/content/early/2013/06/09/0192512113485333.abstract).
 *International Political Science Review*. 2014. 35(2):197-217.
