@@ -100,18 +100,17 @@ inflation forecasts](http://dx.doi.org/10.1017/psrm.2014.34). With Cassandra Gra
 Financial Crisis'. With Mark Hallerberg. Forthcoming at *Research and Politics*.
 
 - `simPH`: An R Package for Illustrating Estimates from Cox Proportional Hazard
-Models Including for Interactive and Nonlinear Effects. Forthcoming in the
-*Journal of Statistical Software*.
+Models Including for Interactive and Nonlinear Effects. 2015.
+*Journal of Statistical Software*. 65(3)1-20.
 
 - Letting German Banks Fail: Federalism and decisions to save troubled banks.
 With Sahil Deo, Christian Franz, and Mark Hallerberg.
 *Politische Vierteljahresschrift* (PVS). 2015. 56(2):159-181.
 
-- [Competing Risks and the Mechanisms of Deposit Insurance Governance Convergence](http://ips.sagepub.com/content/early/2013/06/09/0192512113485333.abstract).
-*International Political Science Review*. 2014. 35(2):197-217.
+- [Competing Risks and the Mechanisms of Deposit Insurance Governance Convergence](http://ips.sagepub.com/content/early/2013/06/09/0192512113485333.abstract). 2014. *International Political Science Review*. 35(2):197-217.
 
-- [The Diffusion of Financial Supervisory Governance Ideas](http://dx.doi.org/10.1080/09692290.2012.727362).
-*Review of International Political Economy*. 2013. 20(4):881-916.
+- [The Diffusion of Financial Supervisory Governance Ideas](http://dx.doi.org/10.1080/09692290.2012.727362). 2013.
+*Review of International Political Economy*. 20(4):881-916.
 
 ### Other academic/policy articles
 
