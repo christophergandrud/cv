@@ -90,14 +90,14 @@ My [thesis](http://etheses.lse.ac.uk/303/) used signalling games, event history 
 supervisory data transparency](http://onlinelibrary.wiley.com/doi/10.1111/jcms.12226/abstract). With Mark Hallerberg. Forthcoming in the
 *Journal of Common Market Studies*.
 
-- [Inflated Expectations: How government partisanship shapes bureaucrats'
-inflation forecasts](http://dx.doi.org/10.1017/psrm.2014.34). With Cassandra Grafstrom. Forthcoming in
-*Political Science Research and Methods*.
-
-    + Write up on the [Monkey Cage](http://www.washingtonpost.com/blogs/monkey-cage/wp/2015/01/28/the-fed-cant-accurately-forecast-inflation-heres-why-this-may-hurt-democrats/).
-
 - When All is Said and Done: Updating 'Elections, Special Interests, and
 Financial Crisis'. With Mark Hallerberg. Forthcoming at *Research and Politics*.
+
+- [Inflated Expectations: How government partisanship shapes bureaucrats'
+inflation forecasts](http://dx.doi.org/10.1017/psrm.2014.34). With Cassandra Grafstrom. 2015.
+*Political Science Research and Methods*. 3(2):353-380.
+
+    + Write up on the [Monkey Cage](http://www.washingtonpost.com/blogs/monkey-cage/wp/2015/01/28/the-fed-cant-accurately-forecast-inflation-heres-why-this-may-hurt-democrats/).
 
 - `simPH`: An R Package for Illustrating Estimates from Cox Proportional Hazard
 Models Including for Interactive and Nonlinear Effects. 2015.
