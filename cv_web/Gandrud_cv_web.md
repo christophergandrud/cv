@@ -13,7 +13,13 @@
 
 ## Academic Positions
 
-### Fiscal Governance Centre, Hertie School of Governance, Berlin (2013-Present)
+### City University London (2015-Present)
+
+### Lecturer
+
+I am a lecturer in international political economy (quantitiative methods) in the Department of International Politics and the City University London Q-Step Centre.
+
+### Hertie School of Governance (2013-Present)
 
 #### Post-Doctoral Fellow
 
@@ -21,13 +27,13 @@ I am co-authoring with Prof. Mark Hallerberg a project examining the political e
 
 I also design and teach a new graduate-level course on collaborative data science.
 
-### Yonsei University, South Korea (2012-2013)
+### Yonsei University (2012-2013)
 
 #### Lecturer, International Relations
 
 I was a lecturer in international relations and taught courses primarily in political science and applied social science statistics.
 
-### Hertie School of Governance, Berlin (2010-2012)
+### Hertie School of Governance (2010-2012)
 
 #### Research Associate
 
