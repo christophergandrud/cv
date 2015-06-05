@@ -158,6 +158,9 @@ Revise and resubmit to *West European Politics*.
 - Financial Regulatory Transparency, International Institutions, and Borrowing
 Costs. With Mark Copelovitch and Mark Hallerberg.
 
+- Measuring Real-time Perceptions of Financial Market Stress. With 
+Mark Hallerberg
+
 - Bad Banks as a Response to Crises: When Do Governments Use Them, and Why Does
 Their Governance Differ? With Mark Hallerberg.
 
@@ -176,9 +179,6 @@ Book project with Mark Hallerberg.
 - The Rusty Plumbing of Financial Globalization: The Political Economy of
 National Payment System Reforms. With Stefano Pagliari, Irene Spagna, and Kevin
 Young.
-
-- A Text Based Measure of Banking Crises. With Sahil Deo, Christian Franz, and
-Mark Hallerberg
 
 - Developing Central Bank Credibility in Developing Economies: A sentiment
 analysis of the Reserve Bank of India. With Sahil Deo and Christian Franz.
@@ -251,6 +251,8 @@ Manning Publications Co., Packt Publishing, International Studies Perspectives,
 Political Science Research and Methods, Political Research Quarterly.
 
 ## Recent Conference Presentations/Invited Talks:
+
+- International Political Economy Society Conference (2013, 2015)
 
 - American Political Science Association Annual Conference (2012, 2013, 2014,
 2015)
