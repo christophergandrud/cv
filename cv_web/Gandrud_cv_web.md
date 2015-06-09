@@ -93,11 +93,11 @@ My [thesis](http://etheses.lse.ac.uk/303/) used signalling games, event history 
 ### Peer reviewed articles
 
 - [Does Banking Union Worsen the EUs Democratic Deficit? The need for greater
-supervisory data transparency](http://onlinelibrary.wiley.com/doi/10.1111/jcms.12226/abstract). With Mark Hallerberg. Forthcoming in the
-*Journal of Common Market Studies*.
+supervisory data transparency](http://onlinelibrary.wiley.com/doi/10.1111/jcms.12226/abstract).
+With Mark Hallerberg. Forthcoming in the *Journal of Common Market Studies*.
 
 - When All is Said and Done: Updating 'Elections, Special Interests, and
-Financial Crisis'. With Mark Hallerberg. Forthcoming at *Research and Politics*.
+Financial Crisis'. With Mark Hallerberg. 2015. *Research and Politics*. 2(3):1-9.
 
 - [Inflated Expectations: How government partisanship shapes bureaucrats'
 inflation forecasts](http://dx.doi.org/10.1017/psrm.2014.34). With Cassandra Grafstrom. 2015.
@@ -105,8 +105,8 @@ inflation forecasts](http://dx.doi.org/10.1017/psrm.2014.34). With Cassandra Gra
 
     + Write up on the [Monkey Cage](http://www.washingtonpost.com/blogs/monkey-cage/wp/2015/01/28/the-fed-cant-accurately-forecast-inflation-heres-why-this-may-hurt-democrats/).
 
-- `simPH`: An R Package for Illustrating Estimates from Cox Proportional Hazard
-Models Including for Interactive and Nonlinear Effects. 2015.
+- [`simPH`: An R Package for Illustrating Estimates from Cox Proportional Hazard
+Models Including for Interactive and Nonlinear Effects](http://www.jstatsoft.org/v65/i03). 2015.
 *Journal of Statistical Software*. 65(3)1-20.
 
 - Letting German Banks Fail: Federalism and decisions to save troubled banks.
@@ -158,7 +158,7 @@ Revise and resubmit to *West European Politics*.
 - Financial Regulatory Transparency, International Institutions, and Borrowing
 Costs. With Mark Copelovitch and Mark Hallerberg.
 
-- Measuring Real-time Perceptions of Financial Market Stress. With 
+- Measuring Real-time Perceptions of Financial Market Stress. With
 Mark Hallerberg
 
 - Bad Banks as a Response to Crises: When Do Governments Use Them, and Why Does
