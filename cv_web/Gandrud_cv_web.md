@@ -94,7 +94,7 @@ My [thesis](http://etheses.lse.ac.uk/303/) used signalling games, event history 
 
 - [Does Banking Union Worsen the EUs Democratic Deficit? The need for greater
 supervisory data transparency](http://onlinelibrary.wiley.com/doi/10.1111/jcms.12226/abstract).
-With Mark Hallerberg. Forthcoming in the *Journal of Common Market Studies*.
+With Mark Hallerberg. 2015. *Journal of Common Market Studies*. 53(4): 769-785.
 
 - When All is Said and Done: Updating 'Elections, Special Interests, and
 Financial Crisis'. With Mark Hallerberg. 2015. *Research and Politics*. 2(3):1-9.
