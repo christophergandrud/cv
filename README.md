@@ -5,4 +5,4 @@ My personal CV in Markdown and LaTeX formats.
 
 ---
 
-&copy; Christopher Gandrud (2014)
+&copy; Christopher Gandrud (2015)
