@@ -92,9 +92,8 @@ My [thesis](http://etheses.lse.ac.uk/303/) used signalling games, event history 
 
 ### Peer reviewed articles
 
-- Two Sword Lengths Apart: Credible Commitment Problems and Physical Violence in
-Multi-party Elected National Legislatures. Forthcoming at the
-*Journal of Peace Research*.
+- Two Sword Lengths Apart: Credible commitment problems and physical violence in
+democratic national legislatures. Forthcoming at the *Journal of Peace Research*.
 
     + Write up on the [Monkey Cage](http://t.co/fETbFCXcYU) with Emily Beaulieu.
 
