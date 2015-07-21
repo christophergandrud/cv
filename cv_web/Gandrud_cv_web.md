@@ -81,12 +81,10 @@ My [thesis](http://etheses.lse.ac.uk/303/) used signalling games, event history 
 
 ## Book
 
-[*Reproducible Research with **R** and **RStudio***](http://christophergandrud.github.io/RepResR-RStudio/). Chapman & Hall/CRC Press. 2013.
+[*Reproducible Research with **R** and **RStudio***](http://christophergandrud.github.io/RepResR-RStudio/). Chapman & Hall/CRC Press. 2015. Second Edition.
 
 - First edition reviewed in
 [The American Statistician](http://dx.doi.org/10.1080/00031305.2014.970881).
-
-- Second edition forthcoming 2015.
 
 ## Articles
 
@@ -99,7 +97,7 @@ democratic national legislatures. Forthcoming at the *Journal of Peace Research*
 
 - [Does Banking Union Worsen the EUs Democratic Deficit? The need for greater
 supervisory data transparency](http://onlinelibrary.wiley.com/doi/10.1111/jcms.12226/abstract).
-With Mark Hallerberg. 2015. *Journal of Common Market Studies*. 53(4): 769-785.
+With Mark Hallerberg. 2015. *Journal of Common Market Studies*. 53(4):769-785.
 
 - When All is Said and Done: Updating 'Elections, Special Interests, and
 Financial Crisis'. With Mark Hallerberg. 2015. *Research and Politics*. 2(3):1-9.
@@ -112,7 +110,7 @@ inflation forecasts](http://dx.doi.org/10.1017/psrm.2014.34). With Cassandra Gra
 
 - [`simPH`: An R Package for Illustrating Estimates from Cox Proportional Hazard
 Models Including for Interactive and Nonlinear Effects](http://www.jstatsoft.org/v65/i03). 2015.
-*Journal of Statistical Software*. 65(3)1-20.
+*Journal of Statistical Software*. 65(3):1-20.
 
 - Letting German Banks Fail: Federalism and decisions to save troubled banks.
 With Sahil Deo, Christian Franz, and Mark Hallerberg.
@@ -127,7 +125,7 @@ With Sahil Deo, Christian Franz, and Mark Hallerberg.
 
 - Corrections and Refinements to the Database of Political Institutions'
 **yrcurnt** Election Timing Variable. 2015.
-*The Political Methodologist*. 22(2).
+*The Political Methodologist*. 22(2):2-4.
 
 - [Bad Banks in the EU: The impact of Eurostat rules](http://www.bruegel.org/publications/publication-detail/publication/864-bad-banks-in-the-eu-the-impact-of-eurostat-rules/).
 *Bruegel Working Paper*. 2014/15.
@@ -141,7 +139,7 @@ uporzadkowanej likwidacji banków w eropejskich ramach''. *Nowa Europa*. 2014.
 1(17).
 
 
-- [GitHub: A tool for Social Data Set Development and Verification in the Cloud](http://polmeth.wustl.edu/methodologist/tpm_v20_n2.pdf). *The Political Methodologist*. 2013. 20(2): 2-7.
+- [GitHub: A tool for Social Data Set Development and Verification in the Cloud](http://polmeth.wustl.edu/methodologist/tpm_v20_n2.pdf). *The Political Methodologist*. 2013. 20(2):2-7.
 
 
 ### Under Review/Working Papers
@@ -252,6 +250,8 @@ Packt Publishing, Political Science Research and Methods, Political Research
 Quarterly, Review of International Political Economy.
 
 ## Recent Conference Presentations/Invited Talks:
+
+- Texas A \& M University: Fiscal Policy in Europe (2015)
 
 - International Political Economy Society Conference (2013, 2015)
 
