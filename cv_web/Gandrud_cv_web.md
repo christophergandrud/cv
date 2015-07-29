@@ -153,6 +153,9 @@ Young. Revise and resubmit to *Journal of Public Policy*.
 and the ESM. With Mark Hallerberg.
 Revise and resubmit to *West European Politics*.
 
+- Information and Financial Crisis Policy Making. With Micheal O'Keeffe. Revise
+and resubmit to *Journal of European Public Policy*.
+
 - Financial Regulatory Transparency, International Institutions, and Borrowing
 Costs. With Mark Copelovitch and Mark Hallerberg.
 
@@ -164,8 +167,6 @@ Their Governance Differ? With Mark Hallerberg.
 
 - dynsim: An R implementation of dynamic simulations of autoregressive
 relationships. With Laron K Williams and Guy D Whitten.
-
-- Information and Financial Crisis Policy Making. With Micheal O'Keeffe.
 
 ### Work in Progress
 
