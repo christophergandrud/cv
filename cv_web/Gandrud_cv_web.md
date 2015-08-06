@@ -246,7 +246,8 @@ Systems? (LSE-Peking University Summer School)
 
 American Political Science Review, Chapman & Hall/CRC Press,
 International Political Science Review, International Studies Perspectives,
-Journal of Common Market Studies, Managerial Finance, Manning Publications Co.,
+Journal of Common Market Studies, Journal of Statistical Software,
+Managerial Finance, Manning Publications Co.,
 Packt Publishing, Political Science Research and Methods, Political Research
 Quarterly, Review of International Political Economy.
 
