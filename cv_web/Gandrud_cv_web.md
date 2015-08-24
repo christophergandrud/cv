@@ -90,6 +90,9 @@ My [thesis](http://etheses.lse.ac.uk/303/) used signalling games, event history 
 
 ### Peer reviewed articles
 
+- Statistical Agencies and Responses to Financial Crises: Eurostat, Bad Banks,
+and the ESM. With Mark Hallerberg. Forthcoming at *West European Politics*.
+
 - Two Sword Lengths Apart: Credible commitment problems and physical violence in
 democratic national legislatures. Forthcoming at the *Journal of Peace Research*.
 
@@ -148,10 +151,6 @@ uporzadkowanej likwidacji banków w eropejskich ramach''. *Nowa Europa*. 2014.
 
 - Speaking Under Stress: An Analysis of Federal Reserve Speeches. With Kevin
 Young. Revise and resubmit to *Journal of Public Policy*.
-
-- Statistical Agencies and Responses to Financial Crises: Eurostat, Bad Banks,
-and the ESM. With Mark Hallerberg.
-Revise and resubmit to *West European Politics*.
 
 - Information and Financial Crisis Policy Making. With Micheal O'Keeffe. Revise
 and resubmit to *Journal of European Public Policy*.
