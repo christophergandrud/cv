@@ -91,7 +91,7 @@ My [thesis](http://etheses.lse.ac.uk/303/) used signalling games, event history 
 ### Peer reviewed articles
 
 - Statistical Agencies and Responses to Financial Crises: Eurostat, Bad Banks,
-and the ESM. With Mark Hallerberg. Forthcoming at *West European Politics*.
+and the ESM. With Mark Hallerberg. 2016. *West European Politics*. 39(3).
 
 - Two Sword Lengths Apart: Credible commitment problems and physical violence in
 democratic national legislatures. Forthcoming at the *Journal of Peace Research*.
