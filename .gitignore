@@ -1,3 +1,5 @@
+.DS_Store
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
@@ -40,7 +42,7 @@
 # beamer
 *.nav
 *.snm
-*.vrb
+.vrb
 
 # glossaries
 *.acn
