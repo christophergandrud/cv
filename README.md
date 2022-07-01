@@ -3,4 +3,4 @@ Christopher Gandrud CV
 
 My CV. 
 
-&copy; Christopher Gandrud (2021)
+&copy; Christopher Gandrud (2022)
