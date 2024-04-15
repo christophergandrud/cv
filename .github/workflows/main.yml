@@ -2,7 +2,7 @@ name: Build CV PDF document
 on: 
   push:
     paths:
-      - cv_pdf/Gandrud_cv.tex
+      - 'cv_pdf/Gandrud_cv.tex'
 jobs:
   build_latex:
     runs-on: ubuntu-latest
@@ -18,12 +18,7 @@ jobs:
           git config --local core.autocrlf false
           git config --local user.email "${{ github.actor }}@users.noreply.github.com"
           git config --local user.name "${{ github.actor }}"
-          git add . && git add --renormalize .
+          git add cv_pdf/Gandrud_cv.pdf
           git pull origin ${{ github.head_ref }} --autostash --rebase -X ours
-          git commit --allow-empty -am "AUTO-GH ACTION: ${{ github.workflow }}"
-          NO_PAGER=1 git --no-pager diff HEAD^
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          branch: ${{ github.head_ref }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          git commit -m "AUTO-GH ACTION: Update Gandrud_cv.pdf" || echo "No changes to commit"
+          git push origin ${{ github.head_ref }}
