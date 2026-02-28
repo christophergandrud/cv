@@ -1,8 +1,8 @@
 name: Build CV PDF document
-on: 
+on:
   push:
     paths:
-      - 'cv_pdf/Gandrud_cv.tex'
+      - 'cv_slim/cv_gandrud_slim.tex'
 jobs:
   build_latex:
     runs-on: ubuntu-latest
@@ -12,13 +12,13 @@ jobs:
       - name: Github Action for LaTeX
         uses: xu-cheng/latex-action@3.2.0
         with:
-          root_file: cv_pdf/Gandrud_cv.tex
+          root_file: cv_slim/cv_gandrud_slim.tex
       - name: Commit pdf
         run: |
           git config --local core.autocrlf false
           git config --local user.email "${{ github.actor }}@users.noreply.github.com"
           git config --local user.name "${{ github.actor }}"
-          git add cv_pdf/Gandrud_cv.pdf
-          git pull origin ${{ github.head_ref }} --autostash --rebase -X ours
-          git commit -m "AUTO-GH ACTION: Update Gandrud_cv.pdf" || echo "No changes to commit"
-          git push origin ${{ github.head_ref }}
+          git add cv_slim/cv_gandrud_slim.pdf
+          git pull origin ${{ github.ref_name }} --autostash --rebase -X ours
+          git commit -m "AUTO-GH ACTION: Update cv_gandrud_slim.pdf" || echo "No changes to commit"
+          git push origin ${{ github.ref_name }}
